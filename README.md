@@ -13,11 +13,13 @@ My journey into IT Security has led me to develop a passion for cybersecurity an
 
 | Skill                                         | Correlated Project         |
 |-----------------------------------------------|----------------------------|
-|      Highlighted Skill(s) # 1                 | <a href="https://google.com"> Project or Lab 1 </a>|
-|      Highlighted Skill(s) # 2                 | <a href="https://google.com"> Project or Lab 2 </a>|
+|      Highlighted Skill(s) # 1                 | <future hyperlink 4 project here> Project or Lab 1 </a>|
+|      Highlighted Skill(s) # 2                 | <future hyperlink 4 project here> Project or Lab 2 </a>|
 
 
-<!-- Example to reference structure or formatting if needed
+<!--<a href="https://google.com">
+
+Example to reference structure or formatting if needed
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
