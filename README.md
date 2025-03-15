@@ -1,20 +1,31 @@
-# Hello, I'm Ffini
+# Greetings, I'm Ffini         
+#### [FF-hen-E]
 
+I'm a Cybersecurity Analyst with a non-traditional tech background, passionately expanding my understanding and experience, as I continue to grow throughout my journey into tech. 
+
+Curious to discover more about my origin story? Explore the 
+|
+<a href="https://drive.google.com/drive/folders/1seGOP7ouB2MfFsbySF-SxQp8Qxz0D6lU?usp=sharing" target="_blank">
+    <button style="padding: 10px 15px; background-color: #ff8800; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+        Ffini Files
+    </button>
+</a>
+|
+or my
+|
 <a href="https://www.linkedin.com/in/ffini-blossoms" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile - Ffini Blossoms" />
 </a>
-
-I'm a Cybersecurity Engineer Analyst with a non-traditional tech background, passionately expanding my understanding and experience, as I continue to grow while in tech. 
-
+|.
 ## Objective
-My journey into IT Security has led me to develop a passion for cybersecurity and cloud. While transitioning into this field, I'm specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey into IT Security has led me to develop a curiosity for cybersecurity and cloud. As I've transitioned into this field, my sights are focused on landing a Security Operations Center (SOC) role, as a Tier 1 Analyst.
 
-## InfoSec Analyst Projects
+## Projects
 
-| Skill                                         | Correlated Project         |
-|-----------------------------------------------|----------------------------|
-|      Highlighted Skill(s) # 1                 | <future hyperlink 4 project here> Project or Lab 1 </a>|
-|      Highlighted Skill(s) # 2                 | <future hyperlink 4 project here> Project or Lab 2 </a>|
+| Skill                                         | Correlated Project                                     |
+|-----------------------------------------------|--------------------------------------------------------|
+|      Computer Hardware Basics                 | <future hyperlink 4 project here> Project or Lab 1 </a>|
+|      Operating System Basics                  | <future hyperlink 4 project here> Project or Lab 2 </a>|
 
 
 <!--<a href="https://google.com">
