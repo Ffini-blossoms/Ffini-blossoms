@@ -24,8 +24,14 @@ My journey into IT Security has led me to develop a curiosity for cybersecurity 
 
 | Skill                                         | Correlated Project                                     |
 |-----------------------------------------------|--------------------------------------------------------|
-|      Computer Hardware Basics                 | <future hyperlink 4 project here> Project or Lab 1 </a>|
-|      Operating System Basics                  | <future hyperlink 4 project here> Project or Lab 2 </a>|
+|      Computer Hardware Basics                 |               http://bit.ly/3FwyhVb                    |
+|      Operating System Basics                  |                                                        |
+
+
+
+
+
+
 
 
 <!--<a href="https://google.com">
