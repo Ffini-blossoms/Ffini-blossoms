@@ -20,13 +20,13 @@ or my
 ## Objective
 My journey into IT Security has led me to develop a curiosity for cybersecurity and cloud. As I've transitioned into this field, my sights are focused on landing a Security Operations Center (SOC) role, as a Tier 1 Analyst.
 
-## Projects
+## Labs and Projects
 
-| Skill                                         | Correlated Project                                     |
+| Skill                                         | Spotlight                                   |
 |-----------------------------------------------|--------------------------------------------------------|
 |      Computer Hardware Basics                 |               http://bit.ly/3FwyhVb                    |
-|      Operating System Basics                  |                                                        |
-
+|      Operating System Basics                  |               https://bit.ly/3Fy5aRr                   |
+                                                       
 
 
 
