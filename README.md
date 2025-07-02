@@ -18,7 +18,7 @@ or my
 </a>
 |.
 ## Objective
-My journey into IT Security has led me to develop a curiosity for cybersecurity and cloud. As I've transitioned into this field, my sights are focused on landing a Security Operations Center (SOC) role, as a Tier 1 Analyst.
+My journey into IT Security has led me to develop many curiosities, some of which have drawn deeper interest into exploring areas within Cybersecurity, Networking and Cloud. As my sights remain dazzled by landing a Security Operations Center (SOC) or Network Operations Center (NOC) Tier 1 Analyst role, I'm dividing my time to pursue down the rabbit holes of Networking and Red Hat Enterprise Linux. I'm delighted to welcome you along my quests. 
 
 ## Labs and Projects
 
