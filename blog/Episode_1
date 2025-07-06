@@ -1,0 +1,35 @@
+## 🎭 Episode 1: Ffini & Fizzbit Explore SOC Fundamentals
+
+> _A whimsical conversation between me and my mythical sidekick, Fizzbit the Cyber Cat._
+
+---
+
+**Ffini:** Fizzbit, today’s adventure took us through the world of SOC!
+**Fizzbit:** I told you, sorting through those piles of socks would be a world of their own.
+**Ffini:** Not socks my fierce feline ...the world of Security Operations Center. 
+**Fizzbit:** Meow-bad! Did you enjoy the journey?  
+**Ffini:** Absolutely! The Let's Defend Learning Pathway was so well-structured and user-friendly. The UI made navigating and understanding foundational concepts—like Log Management, Case Management, and Endpoint Security—a breeze.  
+**Fizzbit:** Ooh, those sound important! Did you get to try anything hands-on?  
+**Ffini:** You bet. The SOC Fundamentals section had an interactive playbook full of videos and activities. I even got to perform multiple searches to find malware based on different types: IP, URL, Hash, and Domain.  
+**Fizzbit:** Pawsome! Did you face any tricky challenges?  
+**Ffini:** There were a few basic SOC alerts to complete, plus a quiz to test what I’d learned. But the real challenge was diving into the MITRE ATT&CK Framework.  
+**Fizzbit:** MITRE ATT&CK? That sounds fancy—what’s that all about?  
+**Ffini:** It stands for Adversarial Tactics, Techniques, and Common Knowledge. It’s a knowledge database introduced back in 2013, and it’s constantly updated alongside new tech. The coolest part? It serves as a clear roadmap for systematically analyzing cyber attacks, step by step!  
+**Fizzbit:** So it’s like a treasure map for cyber defenders?  
+**Ffini:** Exactly! And speaking of maps, we also explored the Cyber Kill Chain framework, which breaks down an attack into seven stages:  
+- Reconnaissance  
+- Weaponization  
+- Delivery  
+- Exploitation  
+- Installation  
+- Command and control (C2)  
+- Actions on Objectives
+
+**Fizzbit:** So many steps! Did you get lost?  
+**Ffini:** Not at all. With these frameworks, it’s way easier to visualize how attackers move—and how defenders can stop them.  
+**Fizzbit:** Sounds like you’re one step closer to being a SOC superstar! What’s next?  
+**Ffini:** Next up: diving deeper into what is and how to spot web attacks. We'll learn about understanding real-world incident response scenarios and sharpening my threat detection skills. Stay tuned!  
+
+---
+
+_More banter and breakthroughs coming soon!_
