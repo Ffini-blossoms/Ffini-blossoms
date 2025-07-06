@@ -9,8 +9,8 @@ Fizzbit is my mythical feline companion, always asking the curious questions, ke
 
 ## What to Expect
 
-- **Playful Conversations:** Every entry unfolds as a banter-filled chat between Ffini and Fizzbit, making even complex topics engaging and insightful.
-- **Real Progress:** You’ll follow along as we tackle the fundamentals, learn about frameworks, and dissect various areas of what makes a newbie SOC Analyst efficient and wellrounded at their roles.
+- **Playful Conversations:** Every entry unfolds as a banter-filled chat between Ffini and Fizzbit, making even complex topics approachable, engaging and insightful.
+- **Real Progress:** You’ll follow along as we tackle the fundamentals, learn about frameworks, and dissect various areas of what makes a newbie SOC Analyst efficient and well-rounded at their roles.
 - **Ongoing Adventures:** This is an ongoing series—new episodes will be added as I keep learning and growing! 
 
 ---
